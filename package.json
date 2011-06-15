@@ -5,6 +5,6 @@
   , "dependencies": {
       "express": "2.3.11"
     , "sass": ">= 0.0.1"
-    , "jqtpl": ">= 0.0.1"
+    , "jade": ">= 0.0.1"
   }
 }
